@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "Tester Helper"
+    },
+    "appDesc": {
+        "message": "A tool for testing webpage."
+    },
+    "title": {
+        "message": "Tester Helper"
+    },
+    "proxy_helper_options" : {
+        "message": "Tester Helper Options"
+    }
+}

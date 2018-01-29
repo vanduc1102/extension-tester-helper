@@ -5,9 +5,9 @@
     "description": "__MSG_appDesc__",
     "name": "__MSG_appName__",
     "icons": {
-        "128": "images/on.png",
-        "48":  "images/on48.png",
-        "16":  "images/on16.png"
+        "128": "images/icons/icon-64.png",
+        "48":  "images/icons/icon-64.png",
+        "16":  "images/icons/icon-64.png"
     },
     "permissions": [
         "proxy",
@@ -30,7 +30,7 @@
     },
     "options_page": "options.html",
     "browser_action": {
-        "default_icon": "images/off.png",
+        "default_icon": "images/icons/icon-64.png",
         "default_title": "__MSG_title__",
         "default_popup": "popup.html"
     },
